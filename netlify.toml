@@ -4,3 +4,6 @@
   status = 200
   force = true
   headers = { "Content-Type" = "application/json" }
+
+# 💡 구글 API가 보낸 복잡한 데이터 중 진짜 '글자 내용'만 파싱하기 위해 
+# 데이터 구조를 강제하거나, 프론트엔드와 규격을 맞추는 작업이 필요합니다.
