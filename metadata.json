@@ -1,0 +1,6 @@
+{
+  "name": "Love Navigator",
+  "description": "AI-powered dating & compatibility analyzer that calculates compatibility rates, dating dynamics, first date red flags, and future relationship spoilers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
